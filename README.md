@@ -3,8 +3,8 @@ This was built for a Zales ad campaign running on iPad mobile web. Using only CS
 
 [Click here](http://www.joebrust.com/projects/css3-3d-animation) to view a live demo.
 
-## Instructions
+### Instructions
 Click on the box to initiate the animation. If you click on the box again, it will close and you can restart the animation.
 
-## Special Notes
+### Special Notes
 This was originally built for iPads only so -webkit is the the primary prefix used. Please view this demo in Safari or Chrome.
